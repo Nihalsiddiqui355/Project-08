@@ -3,7 +3,7 @@
 
 - By Nihal Siddiqui
 
-> live priview [Link]()
+> live priview [Link](https://uiwebproject.netlify.app/)
 
 > Project Preview
 
